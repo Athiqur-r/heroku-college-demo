@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.mern_title{
+  text-align: center;
+}
+
+.container1{
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: block;
+}
